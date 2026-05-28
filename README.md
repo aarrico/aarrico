@@ -20,10 +20,10 @@ I've spent most of my career taking messy, outdated systems and turning them int
 
 ## Currently
 
-Open to engineering roles — particularly backend, platform, or full-stack positions at companies that value shipping over process theater. Based in the Savannah, GA area, open to remote.
+Open to engineering roles — particularly backend, platform, or full-stack positions at companies that value shipping over process theater. Based in Brunswick, GA, open to remote.
  
 
-📫 alex@arrico.me · [LinkedIn](https://linkedin.com/in/aarrico)
+📫 alex@arrico.me · [Portfolio](https://arrico.me) · [LinkedIn](https://linkedin.com/in/aarrico)
 
 
 
