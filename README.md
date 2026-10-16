@@ -8,11 +8,11 @@ I've spent most of my career taking messy, outdated systems and turning them int
 
 ## What I work with
 
-**Languages:** Python, TypeScript/Node.js, Java, C#, SQL, Go
+**Languages:** Python, TypeScript/Node.js, Java, C#, SQL, Go, C++ & Fortran (many many moons ago) 
 
 **Backend:** Flask, FastAPI, Django, Express.js, REST APIs, RabbitMQ, Redis, WebSockets
 
-**Cloud:** AWS (Lambda, SQS, SNS, S3, DynamoDB, RDS, CloudWatch), GCP (App Engine, Firebase)
+**Cloud:** AWS (Lambda, SQS, SNS, S3, DynamoDB, RDS, CloudWatch, Step Functions), GCP (App Engine, Firebase)
 
 **Data:** PostgreSQL, MongoDB, DynamoDB, pandas, SQLAlchemy
 
